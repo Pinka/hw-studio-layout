@@ -1,0 +1,5 @@
+{
+  "name": "hw-studio-layout",
+  "owner": { "name": "Pinka" },
+  "plugins": [{ "name": "hw-studio-layout", "source": "./" }]
+}

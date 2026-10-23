@@ -1,0 +1,14 @@
+{
+  "name": "hw-studio-layout",
+  "version": "0.1.0",
+  "description": "Shows the current hw-studio design's system layout in a pane when the hw-studio skill runs, with a link to open it in the studio.",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "studioUrl": {
+      "type": "string",
+      "title": "Studio URL",
+      "description": "Where the hw-studio web app runs (npm run dev).",
+      "default": "http://localhost:3000"
+    }
+  }
+}
